@@ -35,7 +35,7 @@ const ImageGenerator = () => {
       }
     } catch (error) {
       console.error("Error fetching image:", error);
-      setError("An error occurred while fetching the image.");
+      setError("Clone git repo and add Unplash api");
     }
   };
 
